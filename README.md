@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malaksadiq
-- 👀 I’m interested in .web development..
-- 🌱 I’m currently learning .web development..
+- 👀 I’m interested in .flutter development
+- 🌱 I’m currently learning .flutter development
 - 💞️ I’m looking to collaborate on . coding..
 - 📫 How to reach me ...
 
